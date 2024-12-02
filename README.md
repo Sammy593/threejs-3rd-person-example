@@ -1,1 +1,1 @@
-# meta-verse-threejs
+# Example of third-person controls with Three JS Vanilla
